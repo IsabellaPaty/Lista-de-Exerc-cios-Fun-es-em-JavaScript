@@ -1,1 +1,1 @@
-# Lista-de-Exerc-cios-Fun-es-em-JavaScript
+Lista de Exercícios – Funções em JavaScript
